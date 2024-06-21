@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:zego_videocalling/pages/_second.dart';
-import 'package:zego_videocalling/pages/_landing.dart';
+import 'package:zego/pages/_landing.dart';
+import 'package:zego/pages/_second.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
